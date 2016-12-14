@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "console-extend",
+        "scope": null,
+        "escapedName": "console-extend",
+        "name": "console-extend",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jordan/Documents/npmProjects"
+    ]
+  ],
+  "_from": "console-extend@latest",
+  "_id": "console-extend@1.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/console-extend",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/console-extend-1.0.3.tgz_1481563013006_0.8286853232420981"
+  },
+  "_npmUser": {
+    "name": "jpiepkow",
+    "email": "jpiepkow@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "console-extend",
+    "scope": null,
+    "escapedName": "console-extend",
+    "name": "console-extend",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/console-extend/-/console-extend-1.0.3.tgz",
+  "_shasum": "3e1a71431fa5b3ee6d14f6003394b62d0fefc534",
+  "_shrinkwrap": null,
+  "_spec": "console-extend",
+  "_where": "/Users/jordan/Documents/npmProjects",
+  "author": {
+    "name": "jordan l piepkow"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
+  },
+  "description": "this acts as a proxy for the console object so that you can execute functions while also console.(log|warn|error)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3e1a71431fa5b3ee6d14f6003394b62d0fefc534",
+    "tarball": "https://registry.npmjs.org/console-extend/-/console-extend-1.0.3.tgz"
+  },
+  "keywords": [
+    "console",
+    "proxy"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jpiepkow",
+      "email": "jpiepkow@gmail.com"
+    }
+  ],
+  "name": "console-extend",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
